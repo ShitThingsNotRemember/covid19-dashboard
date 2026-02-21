@@ -1,4 +1,4 @@
-# Covid 19 Interactive Dashboard
+# Covid 19 Interactive Dashboard 
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/soroushchehresa/awesome-coronavirus#applications-and-bots)
 [![Gitter chat](https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter)](https://gitter.im/ncov-dashboard/community)
